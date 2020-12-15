@@ -3,7 +3,7 @@
 <details>
  <summary> teste </b></summary>
  <br>
- Testanto
+![Silvio Celso github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub_icons=true&theme=radical)
 
 
 </details>
