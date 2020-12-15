@@ -1,13 +1,10 @@
 ### Hi there 👋
 
- I'm Silvio celso da Silva I am passionate about technology, during this period of pandemic I took the opportunity to improve a little more in my personal development as dev, currently I am student of information system, I know I have much to learn but I am determined to achieve my goals.
+ I'm Silvio celso da Silva i am passionate about technology, during this period of pandemic I took the opportunity to improve a little more in my personal development as dev, currently I am student of information system, I know I have much to learn but I am determined to achieve my goals.
 
 Linkedin
 https://www.linkedin.com/in/silvio-celso-ti/
 
-<a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-</a>
 
 ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
