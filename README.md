@@ -4,8 +4,7 @@
 
 Linkedin
 https://www.linkedin.com/in/silvio-celso-ti/
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
 <details>
