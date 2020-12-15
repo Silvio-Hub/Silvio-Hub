@@ -11,6 +11,7 @@ https://www.linkedin.com/in/silvio-celso-ti/
  <summary> Desempenho </b></summary> 
   ![Silvio Celso's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&hide=contribs,prs)
 </details>
+![Silvio Celso's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&hide=contribs,prs)
 
 <!--
 **Silvio-Hub/Silvio-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
