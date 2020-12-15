@@ -5,15 +5,14 @@
 Linkedin
 https://www.linkedin.com/in/silvio-celso-ti/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
 <details>
  <summary> Desempenho </b></summary> 
-  ![Silvio Celso's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&hide=contribs,prs)
+ 
 </details>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Silvio-Hub/Silvio-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
