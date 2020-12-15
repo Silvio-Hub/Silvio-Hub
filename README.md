@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://www.linkedin.com/in/silvio-celso-ti/
+
 ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
 <details>
