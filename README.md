@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- Meu nome é Silvio Celso, atualmente sou estudante de sistema de informação e estou determinado a conquistar os meus objetivos como dev. :rockt:
+ Meu nome é Silvio Celso, atualmente sou estudante de sistema de informação e estou determinado a conquistar os meus objetivos como dev.
 
 Linkedin
 https://www.linkedin.com/in/silvio-celso-ti/
