@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+![silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub_icons=true&theme=radical)
 <details>
  <summary> teste </b></summary>
  <br> 
- ![silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
 
 </details>
