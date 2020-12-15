@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
- I'm Silvio celso da Silva i am passionate about technology, during this period of pandemic I took the opportunity to improve a little more in my personal development as dev, currently I am student of information system, I know I have much to learn but I am determined to achieve my goals.
+ Meu nome é Silvio Celso, atualmente sou estudante de sistema de informação e estou determinado a conquistar os meus objetivos como dev. :rockt:
 
 Linkedin
 https://www.linkedin.com/in/silvio-celso-ti/
