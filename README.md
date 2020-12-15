@@ -5,6 +5,10 @@
 Linkedin
 https://www.linkedin.com/in/silvio-celso-ti/
 
+<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+</a>
+
 ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
 <details>
