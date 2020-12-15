@@ -8,9 +8,8 @@ https://www.linkedin.com/in/silvio-celso-ti/
 ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
 <details>
- <summary> Desempenho </b> ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)</summary>
- <br> 
-
+ <summary> Desempenho </b></summary> 
+  ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 </details>
 
 <!--
