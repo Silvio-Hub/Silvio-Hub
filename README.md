@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+ My name is Silvio celso da Silva I am passionate about technology, during this period of pandemic I took the opportunity to improve a little more in my personal development as dev, currently I am student of information system, I know I have much to learn but I am determined to achieve my goals.
+
+Linkedin
 https://www.linkedin.com/in/silvio-celso-ti/
 
-![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
 <details>
- <summary> teste </b></summary>
+ <summary> Desempenho </b></summary>
  <br> 
+ ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
 
 </details>
