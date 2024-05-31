@@ -1,6 +1,6 @@
 ## Olá pessoal!
 
- Meu nome é Silvio Celso, atualmente sou estudante de Sistema de Informação e estou determinado a conquistar os meus objetivos como dev front-end.
+ Meu nome é Silvio Celso, sou formado em Sistema de Informação e estou determinado a conquistar os meus objetivos como dev full-stack.
 
 Linkedin:
 https://www.linkedin.com/in/silvio-celso-ti/
