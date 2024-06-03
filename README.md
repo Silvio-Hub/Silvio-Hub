@@ -1,8 +1,8 @@
-Silvio Celso
-👨🏽‍💻 Desenvolvedor Full-Stack em Ascensão | 🎓 Graduado em Sistemas de Informação
+ Silvio Celso
+- 👨🏽‍💻 Desenvolvedor Full-Stack em Ascensão | 🎓 Graduado em Sistemas de Informação
 
-Sobre Mim
-Olá! Sou Silvio Celso, um entusiasta de tecnologia apaixonado pela arte de codificar. Meu objetivo é trazer soluções inovadoras e eficientes para desafios do mundo real, enquanto continuo aprimorando minhas habilidades como desenvolvedor full-stack.
+ Sobre Mim
+- Olá! Sou Silvio Celso, um entusiasta de tecnologia apaixonado pela arte de codificar. Meu objetivo é trazer soluções inovadoras e eficientes para desafios do mundo real, enquanto continuo aprimorando minhas habilidades como desenvolvedor full-stack.
 
 Habilidades
 - Linguagens de Programação: JavaScript, Java
@@ -12,14 +12,14 @@ Habilidades
 - Metodologias Ágeis: Scrum, Kanban
 
 Experiência Profissional
-Empresa NTTDATA Brasil
-Cargo: Desenvolvedor de Software
-Período: 03/2021 - 03/2024
+- Empresa NTTDATA Brasil
+- Cargo: Desenvolvedor de Software
+- Período: 03/2021 - 03/2024
 
 Educação
-Bacharelado em Sistemas de Informação
-Universidade Cruzeiro do Sul
-Ano de Conclusão: 2024
+- Bacharelado em Sistemas de Informação
+- Universidade Cruzeiro do Sul
+- Ano de Conclusão: 2024
 
 Contato
 - 🔗 LinkedIn: https://www.linkedin.com/in/silvio-celso-ti/
