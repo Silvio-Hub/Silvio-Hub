@@ -1,9 +1,29 @@
-## Olá pessoal!
+Silvio Celso
+👨🏽‍💻 Desenvolvedor Full-Stack em Ascensão | 🎓 Graduado em Sistemas de Informação
 
- Meu nome é Silvio Celso, sou formado em Sistema de Informação e estou determinado a conquistar os meus objetivos como dev full-stack.
+Sobre Mim
+Olá! Sou Silvio Celso, um entusiasta de tecnologia apaixonado pela arte de codificar. Meu objetivo é trazer soluções inovadoras e eficientes para desafios do mundo real, enquanto continuo aprimorando minhas habilidades como desenvolvedor full-stack.
 
-Linkedin:
-https://www.linkedin.com/in/silvio-celso-ti/
+Habilidades
+- Linguagens de Programação: JavaScript, Java
+- Frameworks: Angular, React.js
+- Bancos de Dados: MySQL
+- Ferramentas de Controle de Versão: Git, GitHub, GitLab
+- Metodologias Ágeis: Scrum, Kanban
+
+Experiência Profissional
+Empresa NTTDATA Brasil
+Cargo: Desenvolvedor de Software
+Período: 03/2021 - 03/2024
+
+Educação
+Bacharelado em Sistemas de Informação
+Universidade Cruzeiro do Sul
+Ano de Conclusão: 2024
+
+Contato
+- 🔗 LinkedIn: https://www.linkedin.com/in/silvio-celso-ti/
+- 📧 Email: silviocelso.dev@gmail.com
 
 
 ![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
