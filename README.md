@@ -26,7 +26,7 @@ Contato
 - 📧 Email: silviocelso.dev@gmail.com
 
 
-![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
+<!---![Silvio's github stats](https://github-readme-stats.vercel.app/api?username=Silvio-Hub&show_icons=true&theme=radical)
 
 <!--<details>
  <summary> Desempenho </b></summary> 
