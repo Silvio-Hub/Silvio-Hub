@@ -17,13 +17,15 @@ Experiência Profissional
 - Período: 03/2021 - 03/2024
 
 Educação
-- Bacharelado em Sistemas de Informação
-- Universidade Cruzeiro do Sul
-- Ano de Conclusão: 2024
+ Graduação
+ - Bacharelado em Sistemas de Informação
+ - Universidade Cruzeiro do Sul
+ - Ano de Conclusão: 2024
 
-- Pós Graduação em Front-end engineering
-- FIAP
-- Ano de iniciação 2025
+ Pós Graduação
+ - Pós Graduação em Front-end engineering
+ - FIAP
+ - Ano de iniciação 2025
 
 Contato
 - 🔗 LinkedIn: https://www.linkedin.com/in/silvio-celso-ti/
